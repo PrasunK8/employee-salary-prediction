@@ -1,4 +1,5 @@
 # employee-salary-prediction
+
 🧠 Employee Salary Prediction using Machine Learning
 This project is a machine learning-based solution to predict whether an individual's income exceeds $50K/year based on census data. It leverages classification algorithms to build a predictive model using the Adult Income Dataset (UCI Repository).
 
